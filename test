@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang ="ja">
+  <head>
+    <meta charset ="utf-8">
+    <meta name ="viewport" content ="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>web2</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+  </head>
+  
+  <body>
+  
+    // 上部
+    <div class="bs-component">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-primary"> 
+        <a class="navbar-brand" href="#">web2</a>
+        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar-collapse collapse" id="navbarColor01" style="">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#about">About me</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#illust">Illustration</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#3dcg">3DCG</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+    
+    // TOPへ
+    <div id="page_top"><a href="#"></a></div>
+    
+    // コンテンツ
+    <div class ="container">
+      <section id="main">
+      
+        <article id="about">
+          <p>デザイナーとしてゲーム業界を目指している学生。近未来を舞台とした物語とキャラクターを考えるのが好きです。</p>
+          <p>スキル</p>
+          <ul>
+          <il>Maya</il>
+          <il>MotionBuilder</il>
+          <il>Unity</il>
+          <il>Photoshop</il>
+          <il>Illustrator</il>
+          <il>InDesign</il>
+          <il>AfterEffects</il>
+          <il>CLIP STUDIO PAINT</il>
+          <il>EDGE</il>
+          </ul>
+        </article>
+      
+      </section>
+    </div>
+    
+  </body>
+  
+</html>
